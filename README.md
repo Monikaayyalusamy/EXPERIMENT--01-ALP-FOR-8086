@@ -1,6 +1,5 @@
 # Name : Monika A
 # Reg no : 212224240094
-# Date of experiment : 18.08.2025
 # EXPERIMENT 01 ALP FOR 8086
 
 
